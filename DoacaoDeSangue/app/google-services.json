@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890402038287",
+    "firebase_url": "https://app-doacao-de-sangue.firebaseio.com",
+    "project_id": "app-doacao-de-sangue",
+    "storage_bucket": "app-doacao-de-sangue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890402038287:android:37aa793715fba953",
+        "android_client_info": {
+          "package_name": "com.example.docaodesangue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890402038287-b0fe0u3vgesh3tdii5pf1t39scjkp8tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docaodesangue",
+            "certificate_hash": "3ca3ca28ba843d81d2f0b582b4cba874d65c9788"
+          }
+        },
+        {
+          "client_id": "890402038287-lc0qj1pqn83kp2nab3ebtklbvq2qh3jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXydHvNMK_CWW3QELe0fR4vBF6By1wlV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890402038287-lc0qj1pqn83kp2nab3ebtklbvq2qh3jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

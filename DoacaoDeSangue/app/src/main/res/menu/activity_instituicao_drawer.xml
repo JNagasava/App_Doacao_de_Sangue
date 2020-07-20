@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_instituicao"
+            android:icon="@drawable/icon_info_instituicao"
+            android:title="@string/instituicao_txt" />
+        <item
+            android:id="@+id/nav_notificar_doadores"
+            android:icon="@drawable/icon_notificar_doadores"
+            android:title="@string/inst_notifica"/>
+        <item
+            android:id="@+id/nav_edit_instituicao"
+            android:icon="@drawable/icon_edit"
+            android:title="@string/edit_info_txt"/>
+
+    </group>
+
+</menu>

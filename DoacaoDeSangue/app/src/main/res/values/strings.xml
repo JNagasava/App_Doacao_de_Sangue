@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Doação de Sangue</string>
+    <string name="title_activity_doador">Doador</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tela inicial -->
+    <string name="ini_doe_txt">Doe Sangue</string>
+    <string name="ini_entra_doador">ENTRE COMO DOADOR</string>
+    <string name="ini_entra_inst">ENTRE COMO INSTITUIÇÃO</string>
+    <string name="ini_cad_inst">CADASTRE A SUA INSTITUIÇÃO</string>
+
+    <!-- Doador logado-->
+    <string name="localizacao_txt">Localização</string>
+    <string name="ipd_txt">Instituições para doar</string>
+    <string name="agenda_txt">Agendamentos</string>
+    <string name="historico_txt">Histórico</string>
+    <string name="edit_info_txt">Editar Informações</string>
+    <string name="notificacoes_txt">Notificações</string>
+    <string name="help_txt">Ajuda</string>
+
+    <!-- Cadastro Instituicao -->
+    <string name="cnpj_txt">CNPJ</string>
+    <string name="nome_inst_txt">Nome da instituição</string>
+    <string name="estado_txt">Estado</string>
+    <string name="cidade_txt">Cidade</string>
+    <string name="endereco_txt">Endereço</string>
+    <string name="cep_txt">CEP</string>
+    <string name="telefone_txt">Telefone</string>
+    <string name="digite_senha_txt">Digite sua senha</string>
+    <string name="digite_senha2_txt">Digite sua senha novamente</string>
+    <string name="email_txt">E-mail</string>
+    <string name="cadastrar_txt">CADASTRAR</string>
+
+    <!-- Login da instituicao -->
+    <string name="senha_txt">Senha</string>
+    <string name="esqueci_senha">Esqueci minha senha</string>
+    <string name="prosseguir_txt">PROSSEGUIR</string>
+
+    <!-- Instituicao logada -->
+    <string name="instituicao_txt">Instituição</string>
+    <string name="inst_notifica">Notificar doadores</string>
+
+    <!-- Estoque da instituicao-->
+    <string name="estoque_txt">Estoque de sangue da instituição</string>
+
+    <!-- Tipos sanguineos-->
+    <string name="a_pos">A+</string>
+    <string name="a_neg">A-</string>
+    <string name="b_pos">B+</string>
+    <string name="b_neg">B-</string>
+    <string name="ab_pos">AB+</string>
+    <string name="ab_neg">AB-</string>
+    <string name="o_pos">O+</string>
+    <string name="o_neg">O-</string>
+
+    <!-- Instituicao notifica -->
+    <string name="raio">Raio de notificação</string>
+
+    <!-- Infos para doar -->
+    <string name="info_doar_txt">Informações para doar sangue</string>
+
+    <!-- Doador edita informacoes -->
+    <string name="tipo_sangue_txt">Tipo sanguíneo</string>
+    <string name="nome_txt">Nome</string>
+    <string name="local_atual">ATIVAR LOCALIZAÇÃO ATUAL</string>
+    <string name="confirm">CONFIRMAR</string>
+
+    <!-- Some daqui meu -->
+    <string name="sair_txt">Sair</string>
+
+    <!-- Array de estados -->
+    <string-array name="estados_array">
+        <item></item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+
+    <!-- Array de nivel do estoque de sangue -->
+    <string-array name="nivel_estoque_array">
+        <item>Suficiente</item>
+        <item>Insuficiente</item>
+        <item>Crítico</item>
+    </string-array>
+
+</resources>

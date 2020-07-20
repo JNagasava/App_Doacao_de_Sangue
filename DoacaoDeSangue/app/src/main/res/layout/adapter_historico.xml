@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtInstituicaoHistorico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instituição"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtDoadorHistorico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Doador"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/txtDataHistorico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data: dd/mm/aa"
+        android:textSize="16sp" />
+</LinearLayout>

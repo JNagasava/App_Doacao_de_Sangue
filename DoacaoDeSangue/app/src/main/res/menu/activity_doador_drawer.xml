@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_instituicoes"
+            android:icon="@drawable/icon_instituicao"
+            android:title="@string/ipd_txt">
+        </item>
+
+        <item
+            android:id="@+id/nav_agendamentos"
+            android:icon="@drawable/icon_agendamentos"
+            android:title="@string/agenda_txt">
+        </item>
+
+        <item
+            android:id="@+id/nav_historico"
+            android:icon="@drawable/icon_historico"
+            android:title="@string/historico_txt">
+        </item>
+
+        <item
+            android:id="@+id/nav_edit"
+            android:icon="@drawable/icon_edit"
+            android:title="@string/edit_info_txt">
+        </item>
+
+        <item
+            android:id="@+id/nav_notificacoes"
+            android:icon="@drawable/icon_notificacoes"
+            android:title="@string/notificacoes_txt">
+        </item>
+
+        <item
+            android:id="@+id/nav_ajuda"
+            android:icon="@drawable/icon_ajuda"
+            android:title="@string/help_txt">
+        </item>
+
+    </group>
+
+</menu>
